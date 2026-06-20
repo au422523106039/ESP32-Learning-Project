@@ -1,5 +1,7 @@
 # ESP32-Learning-Project
-ESP32 and IoT learning projects built for embedded systems practice and skill development./n
+ESP32 and IoT learning projects built for embedded systems practice and skill development.
+
+
 ##SERVO CONTROL PROJECT
 ###WOKWI SIMULATION
 https://wokwi.com/projects/467326407946662913
