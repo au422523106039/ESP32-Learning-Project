@@ -25,6 +25,7 @@ The project uses an ESP32 and an HC-SR04 ultrasonic sensor to measure the water 
 
 Wokwi Simulation:
     https://wokwi.com/projects/467545918903946241
+    
 Description:
    Detects sunlight intensity using an LDR sensor and displays Dark, Dim, Normal Light, Bright, and Very Bright levels using five LEDs.
 
