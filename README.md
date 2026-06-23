@@ -30,3 +30,13 @@ Wokwi Simulation:
    Detects sunlight intensity using an LDR sensor and displays Dark, Dim, Normal Light, Bright, and Very Bright levels using five LEDs.
 
 
+4.SMART TEMPERATURE HUMIDITY FAN:
+
+WOKWI SIMULATION:
+https://wokwi.com/projects/467635171407962113
+
+DESCRIPTION:
+Smart Temperature & Humidity Controlled Fan using ESP32, DHT22, SSD1306 OLED Display and Servo Motor.
+
+
+
