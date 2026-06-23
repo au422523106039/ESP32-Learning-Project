@@ -21,7 +21,7 @@ DESCRIPTION:
 The project uses an ESP32 and an HC-SR04 ultrasonic sensor to measure the water level in a tank. The measured level is displayed on an LCD,While three LEDs indicate low,medium and high water levels,providinf a simple and effective real-time monitoring solution.
 
 
-3. SUNLIGHT DETECTOR PROJECT:
+3.SUNLIGHT DETECTOR PROJECT:
 
 Wokwi Simulation:
     https://wokwi.com/projects/467545918903946241
