@@ -5,7 +5,7 @@ ESP32 and IoT learning projects built for embedded systems practice and skill de
 
 1.SERVO CONTROL 
 
- WOKWI SIMULATION
+WOKWI SIMULATION
 https://wokwi.com/projects/467326407946662913
 
  DESCRIPTION
@@ -14,7 +14,7 @@ THIS PROJECT CONTROLS A SERVO MOTOR USING ESP32
 
 2.WATER LEVEL INDICATOR PROJECT::
 
-NWOKWI SIMULATION:
+WOKWI SIMULATION:
 https://wokwi.com/projects/467545101267223553
 
  DESCRIPTION:
@@ -23,7 +23,7 @@ The project uses an ESP32 and an HC-SR04 ultrasonic sensor to measure the water 
 
 3.SUNLIGHT DETECTOR PROJECT:
 
-NWokwi Simulation:
+Wokwi Simulation:
     https://wokwi.com/projects/467545918903946241
     
  Description:
